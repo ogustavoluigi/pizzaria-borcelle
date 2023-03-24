@@ -1,0 +1,14 @@
+{
+    "name": "Pizza Borcelle",
+    "description": "",
+    "image": "https://ik.imagekit.io/areya/tr:ar-5-3,w-800/logo_Hbwj3-ZUIa3.png",
+    "version": "0",
+    "author": {
+        "name": "Areya Webservices",
+        "link": "https://www.areya.de/"
+    },
+    "lumino-version": {
+        "min": "3.5",
+        "max": "3.6"
+    }
+}
